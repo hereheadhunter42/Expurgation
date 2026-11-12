@@ -204,4 +204,4 @@ This repository serves as the official landing page for **Expurgation**. The sof
 **Get the most recent version of Expurgation today!**
 
 ---
-**Last updated:** 2026-11-12 14:28:19 UTC
+**Last updated:** 2026-11-12 21:40:35 UTC
